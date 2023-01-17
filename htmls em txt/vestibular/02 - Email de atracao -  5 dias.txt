@@ -1,0 +1,1034 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="x-apple-disable-message-reformatting">
+<meta name="format-detection" content="telephone=no,address=no,email=no,date=no,url=no">
+<title>UNIFAA MEDICINA 2023</title>
+<link href="https://fonts.googleapis.com/css?family=Arimo:400&display=swap&subset=cyrillic" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Arvo:700&display=swap&subset=cyrillic" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Arimo:700&display=swap&subset=cyrillic" rel="stylesheet">
+<!--[if mso]>
+            <style>
+                * {
+                    font-family: sans-serif !important;
+                }
+            </style>
+        <![endif]-->
+<!--[if !mso]><!-->
+<!-- <![endif]-->
+<style>
+html {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+* {
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+
+
+td {
+    vertical-align: top;
+    mso-table-lspace: 0pt !important;
+    mso-table-rspace: 0pt !important;
+}
+
+
+a {
+    text-decoration: none;
+}
+
+
+img {
+    -ms-interpolation-mode:bicubic;
+}
+
+
+
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 374px) {
+    u ~ div .email-container {
+        min-width: 320px !important;
+    }
+}
+
+@media only screen and (min-device-width: 375px) and (max-device-width: 413px) {
+    u ~ div .email-container {
+        min-width: 375px !important;
+    }
+}
+
+@media only screen and (min-device-width: 414px) {
+    u ~ div .email-container {
+        min-width: 414px !important;
+    }
+}
+
+</style>
+<!--[if gte mso 9]>
+        <xml>
+            <o:OfficeDocumentSettings>
+                <o:AllowPNG/>
+                <o:PixelsPerInch>96</o:PixelsPerInch>
+            </o:OfficeDocumentSettings>
+        </xml>
+        <![endif]-->
+<style>
+@media only screen and (max-device-width: 549px), only screen and (max-width: 549px) {
+
+    .eh {
+        height:auto !important;
+    }
+
+    .desktop {
+        display: none !important;
+        height: 0 !important;
+        margin: 0 !important;
+        max-height: 0 !important;
+        overflow: hidden !important;
+        padding: 0 !important;
+        visibility: hidden !important;
+        width: 0 !important;
+    }
+
+    .mobile {
+        display: block !important;
+        width: auto !important;
+        height: auto !important;
+        float: none !important;
+    }
+
+
+        .email-container {
+            width: 100% !important;
+            margin: auto !important;
+        }
+
+
+        .stack-column,
+        .stack-column-center {
+            display: block !important;
+            width: 100% !important;
+            max-width: 100% !important;
+            direction: ltr !important;
+        }
+
+
+        .wid-auto {
+            width:auto !important;
+        }
+
+        .card-61994871 {padding-top:16px !important; padding-left:0px !important;}.card-51624200 {padding-top:16px !important; padding-left:0px !important;}.card-16088320 {padding-top:16px !important; padding-left:0px !important;}.card-11025658 {padding-top:16px !important; padding-left:0px !important;}
+         .left-1-94 {padding-left:20px !important;} .left-1-96 {padding-left:0px !important;} .right-1-96 {padding-right:0px !important;} .left-1-98 {padding-left:20px !important;} .right-1-98 {padding-right:10px !important;} .left-1-236 {padding-left:20px !important;} .right-1-236 {padding-right:20px !important;} .left-1-105 {padding-left:20px !important;} .right-1-105 {padding-right:20px !important;} .top-1-140 {height:10px !important;} .bottom-1-140 {height:0px !important;} .top-1-148 {height:0px !important;} .bottom-1-148 {height:20px !important;} .top-1-164 {height:10px !important;}
+
+        .center-on-narrow {
+            text-align: center !important;
+            display: block !important;
+            margin-left: auto !important;
+            margin-right: auto !important;
+            float: none !important;
+        }
+        table.center-on-narrow {
+            display: inline-block !important;
+        }
+
+    }
+
+</style>
+</head>
+
+<body width="100%" style="margin: 0; padding: 0 !important; mso-line-height-rule: exactly;">
+<div  >
+<!--[if gte mso 9]>
+                <v:background xmlns:v="urn:schemas-microsoft-com:vml" fill="t">
+                <v:fill type="tile" color="#6b6969"/>
+                </v:background>
+                <![endif]-->
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td valign="top" align="center">
+<table bgcolor="#ffffff" style="margin: 0 auto;" align="center" id="brick_container" cellspacing="0" cellpadding="0" border="0" width="550" class="email-container">
+<tr>
+<td>
+<table width="100%" align="center" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td width="550">
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr>
+<td>
+<div style="height:5px;line-height:5px;font-size: 5px; ">&nbsp;</div>
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr>
+<td class="left-1-94" style="padding-left:50px;padding-right:50px; text-align:left;">
+<div style="line-height:141%;text-align:left;"><a target="_blank" href="https://comunicacao.unifaa.edu.br/public/images-emails/2023/01/medicina2023/vestibular/emkt2"><span style="color: #000000;line-height:141%;font-family:Arimo, Helvetica, Arial, sans-serif; font-size:12px;text-decoration: underline;text-align:left;">Ver e-mail online</span></a></div>
+</td>
+</tr>
+</table>
+<div style="height:5px;line-height:5px;font-size:5px;">&nbsp;</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table width="100%" align="center" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td width="550" bgcolor="#070711">
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr>
+<td class="left-1-96 right-1-96">
+<table width="100%" align="center" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td width="550">
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr>
+<td class="stack-column-center" width="50%">
+<table width="100%" align="center" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td>
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr>
+<td width="108">
+<div style="height:25px;line-height:25px;font-size: 25px; ">&nbsp;</div>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td>
+<table align="left" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td class="left-1-98 right-1-98" style="padding-left:60px;">
+<img src="https://comunicacao.unifaa.edu.br/public/images-emails/2023/01/medicina2023/vestibular/emkt2/images/qZPW57opVlO6nT5hz2g1QXXEBPNRBn.png" width="108" alt="Logo UNIFAA" border="0" style=" max-width:108px; height: auto; display: block;">
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<div class="eh" style="height:25px;line-height:25px;font-size: 25px; ">&nbsp;</div>
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr>
+<td class="eh left-1-98 right-1-98" style="padding-left:60px; text-align:left; height:169px">
+<div style="line-height:141%;text-align:left;"><span style="color: #00acec;line-height:141%;font-family:Arvo, Helvetica, Arial, sans-serif; font-size:18px;text-transform: uppercase;text-align:left;font-weight: 700;">Um complexo hospitalar próprio</span><span style="color: #ffffff;line-height:141%;font-family:Arvo, Helvetica, Arial, sans-serif; font-size:18px;text-transform: uppercase;text-align:left;font-weight: 700;"> para você ganhar experiência desde o 1º período.</span></div>
+</td>
+</tr>
+</table>
+<div class="eh" style="height:25px;line-height:25px;font-size:25px;">&nbsp;</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td class="stack-column-center card-61994871" width="50%">
+<table width="100%" align="center" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td>
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr>
+<td>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td>
+<table align="center" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td>
+<img src="https://comunicacao.unifaa.edu.br/public/images-emails/2023/01/medicina2023/vestibular/emkt2/images/Mi6G6y6Jh8tYt4vazoWGw1EBTTOzCx.png" width="275" alt="Imagem Medicina" border="0" style=" width:100%; height: auto; display: block;">
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table width="100%" align="center" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td width="550" bgcolor="#00acec">
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr>
+<td>
+<div style="height:30px;line-height:30px;font-size: 30px; ">&nbsp;</div>
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr>
+<td class="left-1-236 right-1-236" style="padding-left:69px;padding-right:69px; text-align:center;">
+<div style="line-height:141%;text-align:center;"><span style="color: #111118;line-height:141%;font-family:Arimo, Helvetica, Arial, sans-serif; font-size:15px;text-align:center;">Além de uma</span><span style="color: #ffffff;line-height:141%;font-family:Arimo, Helvetica, Arial, sans-serif; font-size:15px;text-align:center;font-weight: 700;"> infraestrutura completa</span><span style="color: #111118;line-height:141%;font-family:Arimo, Helvetica, Arial, sans-serif; font-size:15px;text-align:center;">, os alunos do UNIFAA contam com </span><span style="color: #ffffff;line-height:141%;font-family:Arimo, Helvetica, Arial, sans-serif; font-size:15px;text-align:center;font-weight: 700;">aulas práticas</span><span style="color: #111118;line-height:141%;font-family:Arimo, Helvetica, Arial, sans-serif; font-size:15px;text-align:center;"> nos Ambulatórios de Medicina Integral (AMI), no Núcleo de Atendimento à Criança e ao Adolescente (NAC) e nas Unidades Básicas de Saúde (UBS).<br></span><span style="color: #ffffff;line-height:141%;font-family:Arimo, Helvetica, Arial, sans-serif; font-size:15px;text-align:center;"><br></span><span style="color: #ffffff;line-height:141%;font-family:Arimo, Helvetica, Arial, sans-serif; font-size:15px;text-transform: uppercase;text-align:center;font-weight: 700;">Faça medicina no UNIFAA!</span></div>
+</td>
+</tr>
+</table>
+<div style="height:30px;line-height:30px;font-size:30px;">&nbsp;</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table width="100%" align="center" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td width="550" bgcolor="#070711">
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr>
+<td>
+<div style="height:39px;line-height:39px;font-size: 39px; ">&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td class="left-1-105 right-1-105" style="padding-left:13px;padding-right:13px; ">
+<table width="100%" align="center" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td width="524">
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr>
+<td class="stack-column-center" width="33%">
+<table width="100%" align="center" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td>
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr>
+<td>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td>
+<table align="center" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td>
+<img src="https://comunicacao.unifaa.edu.br/public/images-emails/2023/01/medicina2023/vestibular/emkt2/images/PAjpJ0Tl2APfB2XIBwXDdQzXeikaGV.png" width="90" border="0" style=" max-width:90px; height: auto; display: block;">
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<div style="height:20px;line-height:20px;font-size: 20px; ">&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td width="168">
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr>
+<td>
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr>
+<td style=" text-align:center;">
+<div style="line-height:141%;text-align:center;"><span style="color: #00acec;line-height:141%;font-family:Arvo, Helvetica, Arial, sans-serif; font-size:15px;text-align:center;font-weight: 700;">Hospital e Maternidade-Escola.<br></span></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td class="stack-column-center card-51624200" width="33%">
+<table width="100%" align="center" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td>
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr>
+<td>
+<div style="height:12px;line-height:12px;font-size: 12px; ">&nbsp;</div>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td>
+<table align="center" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td>
+<img src="https://comunicacao.unifaa.edu.br/public/images-emails/2023/01/medicina2023/vestibular/emkt2/images/KF8LU2lKathJMAumcr5iPdPWNyY8wN.png" width="80" border="0" style=" max-width:80px; height: auto; display: block;">
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<div style="height:14px;line-height:14px;font-size: 14px; ">&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td width="165">
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr>
+<td>
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr>
+<td style=" text-align:center;">
+<div style="line-height:141%;text-align:center;"><span style="color: #00acec;line-height:141%;font-family:Arimo, Helvetica, Arial, sans-serif; font-size:15px;text-align:center;font-weight: 700;">Mais de 70 ambulatórios multidisciplinares.<br></span></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td class="stack-column-center card-51624200" width="33%" style="padding-right:0px; ">
+<table width="100%" align="center" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td>
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr>
+<td>
+<div style="height:18px;line-height:18px;font-size: 18px; ">&nbsp;</div>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td>
+<table align="center" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td>
+<img src="https://comunicacao.unifaa.edu.br/public/images-emails/2023/01/medicina2023/vestibular/emkt2/images/148SW5KGTs6MWcchQPYAKqIXABBhII.png" width="59" border="0" style=" max-width:59px; height: auto; display: block;">
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<div style="height:20px;line-height:20px;font-size: 20px; ">&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td width="93.33332824707031">
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr>
+<td>
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr>
+<td style=" text-align:center;">
+<div style="line-height:141%;text-align:center;"><span style="color: #00acec;line-height:141%;font-family:Arimo, Helvetica, Arial, sans-serif; font-size:15px;text-align:center;font-weight: 700;">Centro de Simulação Realística.</span></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<div style="height:13px;line-height:13px;font-size: 13px; ">&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td class="left-1-105 right-1-105">
+<table align="center" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td width="261" bgcolor="#00acec" style="border-radius:4px; ">
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr>
+<td>
+<div style="height:8px;line-height:8px;font-size: 8px; ">&nbsp;</div>
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr>
+<td style="padding-left:20px;padding-right:20px; text-align:center;">
+<div style="line-height:141%;text-align:center;"><a target="_blank" href="https://inscricao.unifaa.edu.br/Login/4006"><span style="color: #ffffff;line-height:141%;font-family:Arvo, Helvetica, Arial, sans-serif; font-size:16px;text-transform: uppercase;text-align:center;font-weight: 700;">Conclua sua inscrição </span></a></div>
+</td>
+</tr>
+</table>
+<div style="height:8px;line-height:8px;font-size:8px;">&nbsp;</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<div style="height:13px;line-height:13px;font-size: 13px; ">&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td class="left-1-105 right-1-105">
+<table align="center" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td width="250" bgcolor="#ffffff" style="border-radius:4px; ">
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr>
+<td>
+<div style="height:8px;line-height:8px;font-size: 8px; ">&nbsp;</div>
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr>
+<td style="padding-left:20px;padding-right:20px; text-align:center;">
+<div style="line-height:141%;text-align:center;"><a target="_blank" href="https://www.unifaa.edu.br/tour-virtual"><span style="color: #00acec;line-height:141%;font-family:Arvo, Helvetica, Arial, sans-serif; font-size:16px;text-transform: uppercase;text-align:center;font-weight: 700;">Faça um tour virtual</span></a></div>
+</td>
+</tr>
+</table>
+<div style="height:8px;line-height:8px;font-size:8px;">&nbsp;</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<div style="height:39px;line-height:39px;font-size:39px;">&nbsp;</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table width="100%" align="center" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td width="550" bgcolor="#070711">
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr>
+<td>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td>
+<table align="center" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td>
+<img src="https://comunicacao.unifaa.edu.br/public/images-emails/2023/01/medicina2023/vestibular/emkt2/images/tF0CHcvjksm1hrqyayFdoTzU38P2SP.png" width="550" border="0" style=" width: 100%; height: auto; display: block;">
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table width="100%" align="center" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td width="550" bgcolor="#00acec">
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr>
+<td>
+<div class="top-1-140 top-1-140" style="height:15px;line-height:15px;font-size: 15px; ">&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td style="padding-left:10px;padding-right:10px; ">
+<table width="100%" align="center" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td width="530">
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr>
+<td class="stack-column-center" width="34%">
+<table width="100%" align="center" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td>
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr>
+<td>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td>
+<table align="center" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td>
+<img src="https://comunicacao.unifaa.edu.br/public/images-emails/2023/01/medicina2023/vestibular/emkt2/images/iyJev2jd3L5tapjUE7er19G3OpaGtN.png" width="108" alt="logo UNIFAA" border="0" style=" max-width:108px; height: auto; display: block;">
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td class="stack-column-center card-16088320" width="33%">
+<table width="100%" align="center" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td>
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr>
+<td>
+<div style="height:5px;line-height:5px;font-size: 5px; ">&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td width="174">
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr>
+<td>
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr>
+<td style=" text-align:left;">
+<div style="line-height:141%;text-align:left;"><span style="color: #ffffff;line-height:141%;font-family:Arimo, Helvetica, Arial, sans-serif; font-size:10px;text-align:left;font-weight: 700;">Referência em formar grandes médicos e médicas de todo o Brasil.</span></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<div style="height:5px;line-height:5px;font-size:5px;">&nbsp;</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td class="desktop stack-column-center card-16088320" width="34%">
+<table width="100%" align="center" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td>
+<div style="height:37px;line-height:37px;">&nbsp;</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<div class="bottom-1-140" style="height:15px;line-height:15px;font-size:15px;">&nbsp;</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table width="100%" align="center" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td width="550" bgcolor="#00acec">
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr>
+<td>
+<div class="top-1-148 top-1-148" style="height:15px;line-height:15px;font-size: 15px; ">&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td style="padding-left:10px;padding-right:10px; ">
+<table width="100%" align="center" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td width="530">
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr>
+<td class="stack-column-center" width="33%">
+<table width="100%" align="center" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td>
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr>
+<td>
+<div style="height:6px;line-height:6px;font-size: 6px; ">&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td width="109">
+<a target="_blank" href="https://unifaa.edu.br/">
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr>
+<td>
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr>
+<td style=" text-align:left;">
+<div style="line-height:141%;text-align:left;"><span style="color: #ffffff;line-height:141%;font-family:Arimo, Helvetica, Arial, sans-serif; font-size:10px;text-transform: uppercase;text-align:left;font-weight: 700;">www.unifaa.edu.br</span></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<div style="height:6px;line-height:6px;font-size:6px;">&nbsp;</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td class="stack-column-center card-11025658" width="33%">
+<table width="100%" align="center" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td>
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr>
+<td>
+<table align="center" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td width="156" bgcolor="#ffffff" style="border-radius:4px; ">
+<a target="_blank" href="https://bit.ly/WhatsAppUNIFAA23">
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr>
+<td>
+<div style="height:3px;line-height:3px;font-size: 3px; ">&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td style="padding-left:10px;padding-right:10px; ">
+<table width="100%" align="center" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td width="136">
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr>
+<td>
+<table align="center" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td width="19">
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr>
+<td>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td>
+<table align="center" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td>
+<img src="https://comunicacao.unifaa.edu.br/public/images-emails/2023/01/medicina2023/vestibular/emkt2/images/NAhCUCmQo3iKYTByBv5lNTKFAqpGRq.png" width="19" border="0" style="max-width:19px; height:auto;display:block;">
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td style="padding-left:7px; ">
+<table width="100%" align="center" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td width="110">
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr>
+<td>
+<div style="height:3px;line-height:3px;font-size: 3px; ">&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td width="110">
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr>
+<td>
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr>
+<td style=" text-align:center;">
+<div style="line-height:141%;text-align:center;"><span style="color: #00acec;line-height:141%;font-family:Arimo, Helvetica, Arial, sans-serif; font-size:9px;text-transform: uppercase;text-align:center;font-weight: 700;">iniciar uma conversa</span></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<div style="height:3px;line-height:3px;font-size:3px;">&nbsp;</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<div style="height:3px;line-height:3px;font-size:3px;">&nbsp;</div>
+</td>
+</tr>
+</table>
+</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td class="stack-column-center card-11025658" width="33%" style="padding-right:0px; ">
+<table width="100%" align="center" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td>
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr>
+<td>
+<div class="top-1-164 top-1-164" style="height:0px;">&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td>
+<table width="100%" align="center" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td width="176.6666717529297">
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr>
+<td>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td>
+<table align="center" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td>
+<a target="_blank" href="https://twitter.com/unifaavalenca"><img src="https://comunicacao.unifaa.edu.br/public/images-emails/2023/01/medicina2023/vestibular/emkt2/images/Y0GlpDU9AMbDjfGuzX2xC4KACWwo88.png" width="25" border="0" style="max-width:25px; height:auto;display:block;"></a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td>
+<table align="center" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td width="23.996997833251953">
+<a target="_blank" href="https://www.instagram.com/unifaa.valenca/ ">
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr>
+<td width="23.996997833251953">
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td>
+<table align="left" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td>
+<img src="https://comunicacao.unifaa.edu.br/public/images-emails/2023/01/medicina2023/vestibular/emkt2/images/9HWu6HPloc47Qdk1CyyqhUi29y5K6T.png" width="23.996997833251953" border="0" style="max-width:23.996997833251953px; height:auto;display:block;">
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</a>
+</td>
+</tr>
+</table>
+</td>
+<td>
+<div class="" style="height:1px;line-height:1px;font-size:1px;">&nbsp;</div>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td>
+<table align="center" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td>
+<a target="_blank" href="https://br.linkedin.com/company/unifaa"><img src="https://comunicacao.unifaa.edu.br/public/images-emails/2023/01/medicina2023/vestibular/emkt2/images/JCA9vbNyqyqwpRNeicwZd256SBuydQ.png" width="24" alt="linkedin" border="0" style="max-width:24px; height:auto;display:block;"></a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td>
+<div class="" style="height:1px;line-height:1px;font-size:1px;">&nbsp;</div>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td>
+<table align="center" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td>
+<a target="_blank" href="https://pt-br.facebook.com/Unifaa.Valenca/"><img src="https://comunicacao.unifaa.edu.br/public/images-emails/2023/01/medicina2023/vestibular/emkt2/images/2aU3T4B0GWhn5Ba4ZClMAaNEh6iIqG.png" width="23" alt="facebook" border="0" style="max-width:23px; height:auto;display:block;"></a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td>
+<div class="" style="height:1px;line-height:1px;font-size:1px;">&nbsp;</div>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td>
+<table align="center" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td>
+<a target="_blank" href="https://www.youtube.com/channel/UClR7U1GYO2L2jHDOFamMw1g"><img src="https://comunicacao.unifaa.edu.br/public/images-emails/2023/01/medicina2023/vestibular/emkt2/images/w2s6fZi6LoyG5r36qIwMiEPU9Itrix.png" width="23.52941131591797" alt="youtube" border="0" style="max-width:23.52941131591797px; height:auto;display:block;"></a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<div class="bottom-1-148" style="height:15px;line-height:15px;font-size:15px;">&nbsp;</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</body>
+
+</html>
